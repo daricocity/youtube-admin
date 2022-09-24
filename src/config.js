@@ -3,7 +3,7 @@ const config = {
     defaultPath: '/',
     fontFamily: `'Poppins', sans-serif`,
     borderRadius: 12,
-    proxy: 'http://127.0.0.1:8000/api'
+    proxy: 'https://u-tube-api.herokuapp.com/api'
 };
 
 export default config;
